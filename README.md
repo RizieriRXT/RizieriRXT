@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**RizieriRXT/RizieriRXT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Passionate **Data Analyst** with strong academic and professional background in data science, economics, and business analytics. I’m driven by the challenge of turning data into actionable insights and building solutions that improve decision-making.
 
-Here are some ideas to get you started:
+## 🔍 About Me
+I’m currently enhancing my skills at **Tripleten**’s Data Analyst Bootcamp and hold a **B.A. in Economics** from **Universidad Autónoma Metropolitana**. With a history of automating processes and creating dashboards in both HR and accounting roles, I thrive at the intersection of data, people, and efficiency.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📈 Skilled in Python, SQL, Excel, Tableau, Seaborn, and more  
+- 📊 Experienced in dashboard creation and data-driven process optimization  
+- 🌎 Based in CDMX, Mexico | 🇲🇽 Fluent in Spanish | 🌐 English - Intermediate   
+
+## 🛠 Tech Stack
+**Languages & Tools:**  
+`Python` | `SQL` | `Pandas` | `Seaborn` | `Matplotlib` | `Dash` | `Plotly` | `Excel` | `Tableau`  
+**Also familiar with:**  
+`R`, `Stata`, `Scikit-learn`, `GitHub`, `Power BI`, `HTML/CSS`, `Java`, `QGIS`, `GeoDa`
+
