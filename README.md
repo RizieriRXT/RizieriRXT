@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a passionate **Data Analyst** with a strong ac
 
 ---
 
-## 📊 Featured Projects
+## 📊 Recent Projects
 
 ### Operator Performance Analysis – Telecom  
 **Tools:** Python, Pandas, Seaborn  
