@@ -10,22 +10,12 @@ Welcome to my GitHub profile! I'm a passionate Data Analyst with a strong academ
 - 🌐 Languages: Spanish (native)  English (intermediate)
 
 🛠️ Tech Stack
-Languages & Tools:
-Python | SQL | Pandas | Seaborn | Matplotlib | Dash | Plotly | Excel | Tableau
-Also familiar with:
-R | Stata | Scikit-learn | GitHub | Power BI | HTML/CSS | Java | QGIS | GeoDa
+**Languages & Tools:**  
+`Python` | `SQL` | `Pandas` | `Seaborn` | `Matplotlib` | `Dash` | `Plotly` | `Excel` | `Tableau`  
+**Also familiar with:**  
+`R`, `Stata`, `Scikit-learn`, `GitHub`, `Power BI`, `HTML/CSS`, `Java`, `QGIS`, `GeoDa`
 
-📫 Let's Connect!
-- 📧 Email: [TuCorreoAquí]
-- 📱 Phone: [TuNúmeroAquí]
-- 🔗 LinkedIn: [TuLinkedInAquí]
-- 🌐 Portfolio: Coming Soon
-
-🚀 Fun Fact
-I believe that data is more than numbers—it's a powerful tool to understand systems, solve problems, and create meaningful change. My mission is to bridge the gap between data and action, one insight at a time.
-
-
-📊 Featured Projects
+📊 Recent Projects
 Operator Performance Analysis – Telecom
 Tools: Python, Pandas, Seaborn
 Summary: Identified inefficient call center operators using call logs and performance metrics to support strategic decisions.
@@ -39,18 +29,15 @@ HR & Accounting Dashboard Automation
 Tools: Excel, Tableau
 Summary: Automated reporting processes and created dashboards to improve traceability and reduce administrative errors.
 
+📫 Let's Connect!
+- 📧 Email: [TuCorreoAquí]
+- 📱 Phone: [TuNúmeroAquí]
+- 🔗 LinkedIn: [TuLinkedInAquí]
+- 🌐 Portfolio: Coming Soon
+
+🚀 Fun Fact
+I believe that data is more than numbers—it's a powerful tool to understand systems, solve problems, and create meaningful change. My mission is to bridge the gap between data and action, one insight at a time.
 
 
-## 🔍 About Me
-I’m currently enhancing my skills at **Tripleten**’s Data Analyst Bootcamp and hold a **B.A. in Economics** from **Universidad Autónoma Metropolitana**. With a history of automating processes and creating dashboards in both HR and accounting roles, I thrive at the intersection of data, people, and efficiency.
 
-- 📈 Skilled in Python, SQL, Excel, Tableau, Seaborn, and more  
-- 📊 Experienced in dashboard creation and data-driven process optimization  
-- 🌎 Based in CDMX, Mexico | 🇲🇽 Fluent in Spanish | 🌐 English - Intermediate   
-
-## 🛠 Tech Stack
-**Languages & Tools:**  
-`Python` | `SQL` | `Pandas` | `Seaborn` | `Matplotlib` | `Dash` | `Plotly` | `Excel` | `Tableau`  
-**Also familiar with:**  
-`R`, `Stata`, `Scikit-learn`, `GitHub`, `Power BI`, `HTML/CSS`, `Java`, `QGIS`, `GeoDa`
 
