@@ -1,4 +1,4 @@
-![Baner]([https://drive.google.com/file/d/1ikiEw0WP5u0JgAouXFSIo41Mz7tpFtkd/view?usp=sharing](https://drive.google.com/file/d/1ikiEw0WP5u0JgAouXFSIo41Mz7tpFtkd/view?usp=sharing)?raw=true)
+![Baner](https://drive.google.com/file/d/1ikiEw0WP5u0JgAouXFSIo41Mz7tpFtkd/view?usp=sharing?raw=true)
 ## 👋 Hi there, I'm Rizieri Hernandez De Anda!
 
 
