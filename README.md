@@ -1,4 +1,4 @@
-![Baner](https://github.com/usuario/repositorio/blob/main/img/logo.png?raw=true)
+![Baner](https://github.com/RizieriRXT/RizieriRXT/blob/57a958e76cead640baf36dd0cc6ace225d49a5b0/baner3.png?raw=true)
 ## 👋 Hi there, I'm Rizieri Hernandez De Anda!
 
 
